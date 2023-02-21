@@ -8,8 +8,8 @@ Awesome Final Project
 
 Created new website 
 
-| index.html    |         | Cool  |
+| **index.html**    |     **css.style**    | **script.js**  |
 | ------------- |:-------------:| -----:|
-|  created new button| right-aligned | $1600 |
-| made new gui  |col 2 is      | centered      |   $12 |
-| made new header | are neat      |    $1 |
+|  created new button| right-aligned | new alert |
+| made new gui  |new colors    | centered      | printed value |
+| made new header | underlined text   |   did math |
